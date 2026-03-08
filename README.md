@@ -1,8 +1,1 @@
-storage.py       — DB schema, connection
-fetching.py      — Wikipedia scraper, Qfact extractor
-query_parser.py  — entity extraction, constraint detection, keywords
-retriever.py     — BM25 index, 4 constraint types
-generator.py     — RAG prompt, LLM call
-verifier.py      — ±10% grounding check, hallucination rate
-pipeline.py      — combines all 6 files (you write this)
-app.py           — Streamlit UI
+Inspired by QuTE (SIGMOD 2021) and NuFact (CIKM 2025), I independently built NumRAG—a retrieval and numerical verification system for factual question answering over web tables in my own way. The system implements a BM25 retrieval pipeline over structured QFacts extracted from Wikipedia tables, feeds retrieved evidence into an LLM, and verifies every numerical claim in the generated answer against source rows—labeling each as grounded, approximated, or hallucinated. The project directly applies concepts from quantity query answering and numerical assertion validation, evaluated using MRR and hallucination rate metrics.
