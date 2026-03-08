@@ -4,3 +4,4 @@ data/raw/sqlite-demo.py
 data/wikitable.db
 pipeline/sample.txt
 pipeline/visualize.py
+.env
