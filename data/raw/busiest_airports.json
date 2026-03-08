@@ -1,0 +1,3135 @@
+{
+  "page_title": "List of busiest airports by passenger traffic",
+  "introduction": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic",
+  "tables": [
+    {
+      "caption": "",
+      "section_heading": "2025 statistics",
+      "column_headers": [
+        "Rank",
+        "Airport",
+        "Location",
+        "Country",
+        "Code(IATA/ICAO)",
+        "Totalpassengers",
+        "Rankchange",
+        "%change"
+      ],
+      "rows": [
+        [
+          "01.",
+          "Hartsfield–Jackson Atlanta International Airport",
+          "Atlanta, Georgia",
+          "United States",
+          "ATL/KATL",
+          "106,302,208",
+          "",
+          "01.6%"
+        ],
+        [
+          "02.",
+          "Dubai International Airport",
+          "Garhoud, Dubai, Dubai",
+          "United Arab Emirates",
+          "DXB/OMDB",
+          "095,200,000",
+          "",
+          "03.1%"
+        ],
+        [
+          "03.",
+          "Tokyo Haneda Airport",
+          "Ōta, Tokyo",
+          "Japan",
+          "HND/RJTT",
+          "091,430,000",
+          "01",
+          "06.7%"
+        ],
+        [
+          "04.",
+          "Dallas Fort Worth International Airport",
+          "Dallas–Fort Worth, Texas",
+          "United States",
+          "DFW/KDFW",
+          "085,660,127",
+          "01",
+          "02.5%"
+        ],
+        [
+          "05.",
+          "Shanghai Pudong International Airport",
+          "Pudong, Shanghai",
+          "China",
+          "PVG/ZSPD",
+          "084,994,548",
+          "05",
+          "010.6%"
+        ],
+        [
+          "6.",
+          "O'Hare International Airport",
+          "Chicago, Illinois",
+          "United States",
+          "ORD/KORD",
+          "84,851,825",
+          "02",
+          "06.0%"
+        ],
+        [
+          "07.",
+          "Heathrow Airport",
+          "Hillingdon, London",
+          "United Kingdom",
+          "LHR/EGLL",
+          "084,463,000",
+          "01",
+          "00.7%"
+        ],
+        [
+          "08.",
+          "Istanbul Airport",
+          "Arnavutköy, Istanbul",
+          "Turkey",
+          "IST/LTFM",
+          "084,457,421",
+          "",
+          "05.0%"
+        ],
+        [
+          "09.",
+          "Guangzhou Baiyun International Airport",
+          "Baiyun-Huadu, Guangzhou, Guangdong",
+          "China",
+          "CAN/ZGGG",
+          "083,582,952",
+          "04",
+          "09.5%"
+        ],
+        [
+          "010.",
+          "Denver International Airport",
+          "Denver, Colorado",
+          "United States",
+          "DEN/KDEN",
+          "082,427,962",
+          "03",
+          "00.1%"
+        ],
+        [
+          "11.",
+          "Indira Gandhi International Airport",
+          "Palam, Delhi",
+          "India",
+          "DEL/VIDP",
+          "078,000,000",
+          "02",
+          "00.2%"
+        ],
+        [
+          "12.",
+          "Seoul Incheon International Airport",
+          "Jung District, Incheon",
+          "South Korea",
+          "ICN/RKSI",
+          "074,071,475",
+          "01",
+          "04.1%"
+        ],
+        [
+          "13.",
+          "Los Angeles International Airport",
+          "Los Angeles, California",
+          "United States",
+          "LAX/KLAX",
+          "073,709,594",
+          "02",
+          "03.8%"
+        ],
+        [
+          "14.",
+          "Charles de Gaulle Airport",
+          "Roissy-en-France, Île-de-France",
+          "France",
+          "CDG/LFPG",
+          "072,029,407",
+          "",
+          "02.5%"
+        ],
+        [
+          "15.",
+          "Beijing Capital International Airport",
+          "Chaoyang-Shunyi, Beijing",
+          "China",
+          "PEK/ZBAA",
+          "070,742,712",
+          "01",
+          "07.5%"
+        ],
+        [
+          "16.",
+          "Singapore Changi Airport",
+          "Changi, East Region",
+          "Singapore",
+          "SIN/WSSS",
+          "069,980,000",
+          "01",
+          "03.4%"
+        ],
+        [
+          "17.",
+          "Amsterdam Airport Schiphol",
+          "Haarlemmermeer, North Holland",
+          "Netherlands",
+          "AMS/EHAM",
+          "068,800,000",
+          "",
+          "03.0%"
+        ],
+        [
+          "18.",
+          "Adolfo Suárez Madrid–Barajas Airport",
+          "Community of Madrid, Barajas",
+          "Spain",
+          "MAD/LEMD",
+          "068,179,054",
+          "",
+          "03.0%"
+        ],
+        [
+          "19.",
+          "Shenzhen Bao'an International Airport",
+          "Bao'an, Shenzhen, Guangdong",
+          "China",
+          "SZX/ZGSZ",
+          "066,485,213",
+          "02",
+          "07.4%"
+        ],
+        [
+          "20.",
+          "Kuala Lumpur International Airport",
+          "Sepang, Selangor",
+          "Malaysia",
+          "KUL/WMKK",
+          "063,300,000",
+          "06",
+          "010.8%"
+        ],
+        [
+          "21.",
+          "Frankfurt Airport",
+          "Frankfurt, Hesse",
+          "Germany",
+          "FRA/EDDF",
+          "063,189,666",
+          "",
+          "02.6%"
+        ],
+        [
+          "22.",
+          "Suvarnabhumi Airport",
+          "Bang Phli, Samut Prakan",
+          "Thailand",
+          "BKK/VTBS",
+          "62,902,183",
+          "02",
+          "01.1%"
+        ],
+        [
+          "23.",
+          "John F. Kennedy International Airport",
+          "Queens, New York, New York",
+          "United States",
+          "JFK/KJFK",
+          "062,629,455",
+          "04",
+          "01.0%"
+        ],
+        [
+          "24.",
+          "Hong Kong International Airport",
+          "Chek Lap Kok, New Territories",
+          "Hong Kong",
+          "HKG/VHHH",
+          "060,992,000",
+          "08",
+          "14.9%"
+        ],
+        [
+          "25.",
+          "Orlando International Airport",
+          "Orlando, Florida",
+          "United States",
+          "MCO/KMCO",
+          "057,675,573",
+          "",
+          "00.8%"
+        ],
+        [
+          "26.",
+          "Josep Tarradellas Barcelona–El Prat Airport",
+          "Catalonia, El Prat de Llobregat",
+          "Spain",
+          "BCN/LEBL",
+          "057,483,036",
+          "02",
+          "04.4%"
+        ],
+        [
+          "27.",
+          "Chengdu Tianfu International Airport",
+          "Jianyang, Chengdu, Sichuan",
+          "China",
+          "TFU/ZUTF",
+          "056,686,738",
+          "02",
+          "03.2%"
+        ],
+        [
+          "28.",
+          "Soekarno–Hatta International Airport",
+          "Tangerang, Banten",
+          "Indonesia",
+          "CGK/WIII",
+          "TBU",
+          "01",
+          "TBU"
+        ],
+        [
+          "29.",
+          "Chhatrapati Shivaji Maharaj International Airport",
+          "Santacruz-Sahar, Mumbai, Maharashtra",
+          "India",
+          "BOM/VABB",
+          "055,500,000",
+          "01",
+          "01.3%"
+        ],
+        [
+          "30.",
+          "Miami International Airport",
+          "Miami-Dade County, Florida",
+          "United States",
+          "MIA/KMIA",
+          "055,314,661",
+          "03",
+          "01.1%"
+        ],
+        [
+          "31.",
+          "San Francisco International Airport",
+          "San Mateo County, California",
+          "United States",
+          "SFO/KSFO",
+          "054,532,613",
+          "05",
+          "04.3%"
+        ],
+        [
+          "32.",
+          "Hamad International Airport",
+          "Doha",
+          "Qatar",
+          "DOH/OTHH",
+          "054,300,000",
+          "01",
+          "03.0%"
+        ],
+        [
+          "33.",
+          "Harry Reid International Airport",
+          "Las Vegas, Nevada",
+          "United States",
+          "LAS/KLAS",
+          "054,060,000",
+          "09",
+          "05.9%"
+        ],
+        [
+          "34.",
+          "Charlotte Douglas International Airport",
+          "Charlotte, North Carolina",
+          "United States",
+          "CLT/KCLT",
+          "053,600,000",
+          "011",
+          "08.9%"
+        ],
+        [
+          "35.",
+          "Beijing Daxing International Airport",
+          "Daxing District, Beijing",
+          "China",
+          "PKX/ZBAD",
+          "053,618,949",
+          "03",
+          "08.4%"
+        ],
+        [
+          "36.",
+          "King Abdulaziz International Airport",
+          "Jeddah",
+          "Saudi Arabia",
+          "JED/OEJN",
+          "053,400,000",
+          "03",
+          "08.8%"
+        ],
+        [
+          "37.",
+          "Seattle–Tacoma International Airport",
+          "SeaTac, Washington",
+          "United States",
+          "SEA/KSEA",
+          "052,715,181",
+          "03",
+          "00.1%"
+        ],
+        [
+          "38.",
+          "Ninoy Aquino International Airport",
+          "Pasay/Parañaque, Metro Manila",
+          "Philippines",
+          "MNL/RPLL",
+          "052,020,000",
+          "01",
+          "03.8%"
+        ],
+        [
+          "39.",
+          "Phoenix Sky Harbor International Airport",
+          "Phoenix, Arizona",
+          "United States",
+          "PHX/KPHX",
+          "051,620,420",
+          "04",
+          "01.3%"
+        ],
+        [
+          "40.",
+          "Leonardo da Vinci Rome Fiumicino Airport",
+          "Fiumicino, Metropolitan City of Rome, Lazio",
+          "Italy",
+          "FCO/LIRF",
+          "050,872,356",
+          "",
+          "04.1%"
+        ],
+        [
+          "41.",
+          "Hangzhou Xiaoshan International Airport",
+          "Hangzhou, Zhejiang",
+          "China",
+          "HGH/ZSHC",
+          "050,459,018",
+          "03",
+          "05.0%"
+        ],
+        [
+          "42.",
+          "Shanghai Hongqiao International Airport",
+          "Shanghai",
+          "China",
+          "SHA/ZSSS",
+          "050,151,025",
+          "03",
+          "04.6%"
+        ],
+        [
+          "43.",
+          "Chongqing Jiangbei International Airport",
+          "Chongqing",
+          "China",
+          "CKG/ZUCK",
+          "050,094,770",
+          "02",
+          "02.8%"
+        ],
+        [
+          "44.",
+          "Kunming Changshui International Airport",
+          "Kunming, Yunnan",
+          "China",
+          "KMG/ZPPP",
+          "049,705,725",
+          "02",
+          "05.4%"
+        ],
+        [
+          "45.",
+          "Xi'an Xianyang International Airport",
+          "Xi'an, Shaanxi",
+          "China",
+          "XIY/ZLXY",
+          "048,535,594",
+          "02",
+          "03.2%"
+        ],
+        [
+          "46.",
+          "Istanbul Sabiha Gökçen International Airport",
+          "Istanbul",
+          "Turkey",
+          "SAW/LTFJ",
+          "048,420,757",
+          "",
+          "017.0%"
+        ],
+        [
+          "47.",
+          "George Bush Intercontinental Airport",
+          "Houston, Texas",
+          "United States",
+          "IAH/KIAH",
+          "048,131,213",
+          "04",
+          "00.7%"
+        ],
+        [
+          "48.",
+          "Taoyuan International Airport",
+          "Dayuan, Taoyuan",
+          "Taiwan",
+          "TPE/RCTP",
+          "047,795,969",
+          "",
+          "06.4%"
+        ],
+        [
+          "49.",
+          "São Paulo/Guarulhos International Airport",
+          "Guarulhos, São Paulo",
+          "Brazil",
+          "GRU/SBGR",
+          "047,188,085",
+          "",
+          "08.0%"
+        ],
+        [
+          "50.",
+          "Newark Liberty International Airport",
+          "Newark, New Jersey",
+          "United States",
+          "EWR/KEWR",
+          "047,000,085",
+          "09",
+          "04.1%"
+        ]
+      ],
+      "surrounding_text": "As of 2024, the United States has the most airports in the top 50 list, with 15 (16 in 2023), following by China having 12 (10 in 2023), while India and Spain have two. In terms of regions, North America has 17 airports in the top 50 (18 in 2023), followed by East Asia with 14 (12 in 2023), Europe with 8 (same as in 2023), Southeast Asia with 5 (6 in 2023), West Asia with three (same as 2023), South Asia with two (same as 2023), and South America with one (same as 2023). Source: 2023 report from the Port Authority of New York and New Jersey",
+      "page_title": "List of busiest airports by passenger traffic",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic",
+      "table_index": 0,
+      "total_rows": 50
+    },
+    {
+      "caption": "",
+      "section_heading": "2024 statistics",
+      "column_headers": [
+        "Rank",
+        "Airport",
+        "Location",
+        "Country",
+        "Code(IATA/ICAO)",
+        "Totalpassengers",
+        "Rankchange",
+        "%change"
+      ],
+      "rows": [
+        [
+          "01.",
+          "Hartsfield–Jackson Atlanta International Airport",
+          "Atlanta, Georgia",
+          "United States",
+          "ATL/KATL",
+          "108,067,766",
+          "",
+          "03.3%"
+        ],
+        [
+          "02.",
+          "Dubai International Airport",
+          "Garhoud, Dubai, Dubai",
+          "United Arab Emirates",
+          "DXB/OMDB",
+          "092,331,506",
+          "",
+          "06.1%"
+        ],
+        [
+          "03.",
+          "Dallas Fort Worth International Airport",
+          "Dallas–Fort Worth, Texas",
+          "United States",
+          "DFW/KDFW",
+          "087,817,864",
+          "",
+          "07.4%"
+        ],
+        [
+          "04.",
+          "Tokyo Haneda Airport",
+          "Ōta, Tokyo",
+          "Japan",
+          "HND/RJTT",
+          "085,900,167",
+          "01",
+          "09.1%"
+        ],
+        [
+          "05.",
+          "Heathrow Airport",
+          "Hillingdon, London",
+          "United Kingdom",
+          "LHR/EGLL",
+          "083,884,572",
+          "01",
+          "05.9%"
+        ],
+        [
+          "06.",
+          "Denver International Airport",
+          "Denver, Colorado",
+          "United States",
+          "DEN/KDEN",
+          "082,358,744",
+          "",
+          "05.8%"
+        ],
+        [
+          "07.",
+          "Istanbul Airport",
+          "Arnavutköy, Istanbul",
+          "Turkey",
+          "IST/LTFM",
+          "080,073,252",
+          "",
+          "05.3%"
+        ],
+        [
+          "08.",
+          "O'Hare International Airport",
+          "Chicago, Illinois",
+          "United States",
+          "ORD/KORD",
+          "080,043,050",
+          "01",
+          "08.3%"
+        ],
+        [
+          "09.",
+          "Indira Gandhi International Airport",
+          "Palam, Delhi",
+          "India",
+          "DEL/VIDP",
+          "077,820,834",
+          "01",
+          "07.8%"
+        ],
+        [
+          "10.",
+          "Shanghai Pudong International Airport",
+          "Pudong, Shanghai",
+          "China",
+          "PVG/ZSPD",
+          "076,787,039",
+          "11",
+          "41.0%"
+        ],
+        [
+          "11.",
+          "Los Angeles International Airport",
+          "Los Angeles, California",
+          "United States",
+          "LAX/KLAX",
+          "076,588,028",
+          "03",
+          "02.1%"
+        ],
+        [
+          "12.",
+          "Guangzhou Baiyun International Airport",
+          "Baiyun-Huadu, Guangzhou, Guangdong",
+          "China",
+          "CAN/ZGGG",
+          "076,365,092",
+          "",
+          "20.9%"
+        ],
+        [
+          "13.",
+          "Seoul Incheon International Airport",
+          "Jung District, Incheon",
+          "South Korea",
+          "ICN/RKSI",
+          "071,212,515",
+          "07",
+          "26.6%"
+        ],
+        [
+          "14.",
+          "Charles de Gaulle Airport",
+          "Roissy-en-France, Île-de-France",
+          "France",
+          "CDG/LFPG",
+          "070,290,260",
+          "03",
+          "04.3%"
+        ],
+        [
+          "15.",
+          "Singapore Changi Airport",
+          "Changi, East Region",
+          "Singapore",
+          "SIN/WSSS",
+          "067,650,000",
+          "02",
+          "14.8%"
+        ],
+        [
+          "16.",
+          "Beijing Capital International Airport",
+          "Chaoyang-Shunyi, Beijing",
+          "China",
+          "PEK/ZBAA",
+          "067,367,428",
+          "07",
+          "27.4%"
+        ],
+        [
+          "17.",
+          "Amsterdam Airport Schiphol",
+          "Haarlemmermeer, North Holland",
+          "Netherlands",
+          "AMS/EHAM",
+          "066,828,759",
+          "03",
+          "08.0%"
+        ],
+        [
+          "18.",
+          "Adolfo Suárez Madrid–Barajas Airport",
+          "Community of Madrid, Barajas",
+          "Spain",
+          "MAD/LEMD",
+          "066,148,340",
+          "03",
+          "09.9%"
+        ],
+        [
+          "19.",
+          "John F. Kennedy International Airport",
+          "Queens, New York, New York",
+          "United States",
+          "JFK/KJFK",
+          "063,265,984",
+          "06",
+          "01.9%"
+        ],
+        [
+          "20.",
+          "Suvarnabhumi Airport",
+          "Bang Phli, Samut Prakan",
+          "Thailand",
+          "BKK/VTBS",
+          "062,234,693",
+          "06",
+          "20.4%"
+        ],
+        [
+          "21.",
+          "Frankfurt Airport",
+          "Frankfurt, Hesse",
+          "Germany",
+          "FRA/EDDF",
+          "061,564,957",
+          "05",
+          "03.7%"
+        ],
+        [
+          "22.",
+          "Shenzhen Bao'an International Airport",
+          "Bao'an, Shenzhen, Guangdong",
+          "China",
+          "SZX/ZGSZ",
+          "061,477,337",
+          "02",
+          "16.6%"
+        ],
+        [
+          "23.",
+          "Charlotte Douglas International Airport",
+          "Charlotte, North Carolina",
+          "United States",
+          "CLT/KCLT",
+          "058,811,725",
+          "01",
+          "10.0%"
+        ],
+        [
+          "24.",
+          "Harry Reid International Airport",
+          "Las Vegas, Nevada",
+          "United States",
+          "LAS/KLAS",
+          "058,447,782",
+          "05",
+          "01.4%"
+        ],
+        [
+          "25.",
+          "Orlando International Airport",
+          "Orlando, Florida",
+          "United States",
+          "MCO/KMCO",
+          "057,211,628",
+          "07",
+          "00.9%"
+        ],
+        [
+          "26.",
+          "Kuala Lumpur International Airport",
+          "Sepang, Selangor",
+          "Malaysia",
+          "KUL/WMKK",
+          "057,044,869",
+          "09",
+          "20.7%"
+        ],
+        [
+          "27.",
+          "Miami International Airport",
+          "Miami-Dade County, Florida",
+          "United States",
+          "MIA/KMIA",
+          "055,926,566",
+          "02",
+          "06.8%"
+        ],
+        [
+          "28.",
+          "Josep Tarradellas Barcelona–El Prat Airport",
+          "Catalonia, El Prat de Llobregat",
+          "Spain",
+          "BCN/LEBL",
+          "055,034,955",
+          "02",
+          "10.3%"
+        ],
+        [
+          "29.",
+          "Chengdu Tianfu International Airport",
+          "Jianyang, Chengdu, Sichuan",
+          "China",
+          "TFU/ZUTF",
+          "054,905,784",
+          "10",
+          "22.6%"
+        ],
+        [
+          "30.",
+          "Chhatrapati Shivaji Maharaj International Airport",
+          "Santacruz-Sahar, Mumbai, Maharashtra",
+          "India",
+          "BOM/VABB",
+          "054,821,000",
+          "30",
+          "06.3%"
+        ],
+        [
+          "31.",
+          "Soekarno–Hatta International Airport",
+          "Tangerang, Banten",
+          "Indonesia",
+          "CGK/WIII",
+          "054,809,500",
+          "10",
+          "11.7.%"
+        ],
+        [
+          "32.",
+          "Hong Kong International Airport",
+          "Chek Lap Kok, New Territories",
+          "Hong Kong",
+          "HKG/VHHH",
+          "053,100,000",
+          "",
+          "34.3%"
+        ],
+        [
+          "33.",
+          "Hamad International Airport",
+          "Doha",
+          "Qatar",
+          "DOH/OTHH",
+          "052,700,000",
+          "04",
+          "14.8%"
+        ],
+        [
+          "34.",
+          "Seattle–Tacoma International Airport",
+          "SeaTac, Washington",
+          "United States",
+          "SEA/KSEA",
+          "052,640,716",
+          "06",
+          "03.4%"
+        ],
+        [
+          "35.",
+          "Phoenix Sky Harbor International Airport",
+          "Phoenix, Arizona",
+          "United States",
+          "PHX/KPHX",
+          "052,325,266",
+          "02",
+          "17.9%"
+        ],
+        [
+          "36.",
+          "San Francisco International Airport",
+          "San Mateo County, California",
+          "United States",
+          "SFO/KSFO",
+          "052,288,098",
+          "07",
+          "04.1%"
+        ],
+        [
+          "37.",
+          "Ninoy Aquino International Airport",
+          "Pasay/Parañaque, Metro Manila",
+          "Philippines",
+          "MNL/RPLL",
+          "050,100,000",
+          "01",
+          "10.4%"
+        ],
+        [
+          "38.",
+          "Beijing Daxing International Airport",
+          "Daxing District, Beijing",
+          "China",
+          "PKX/ZBAD",
+          "049,441,029",
+          "14",
+          "25.5%"
+        ],
+        [
+          "39.",
+          "King Abdulaziz International Airport",
+          "Jeddah",
+          "Saudi Arabia",
+          "JED/OEJN",
+          "049,072,000",
+          "30",
+          "15.0%"
+        ],
+        [
+          "40.",
+          "Leonardo da Vinci Rome Fiumicino Airport",
+          "Fiumicino, Metropolitan City of Rome, Lazio",
+          "Italy",
+          "FCO/LIRF",
+          "048,879,000",
+          "",
+          "21.4%"
+        ],
+        [
+          "41.",
+          "Newark Liberty International Airport",
+          "Newark, New Jersey",
+          "United States",
+          "EWR/KEWR",
+          "048,853,370",
+          "10",
+          "00.5%"
+        ],
+        [
+          "42.",
+          "Chongqing Jiangbei International Airport",
+          "Chongqing",
+          "China",
+          "CKG/ZUCK",
+          "048,676,973",
+          "01",
+          "09.0%"
+        ],
+        [
+          "43.",
+          "George Bush Intercontinental Airport",
+          "Houston, Texas",
+          "United States",
+          "IAH/KIAH",
+          "048,448,545",
+          "07",
+          "04.8%"
+        ],
+        [
+          "44.",
+          "Hangzhou Xiaoshan International Airport",
+          "Hangzhou, Zhejiang",
+          "China",
+          "HGH/ZSHC",
+          "048,053,915",
+          "03",
+          "16.7%"
+        ],
+        [
+          "45.",
+          "Shanghai Hongqiao International Airport",
+          "Shanghai",
+          "China",
+          "SHA/ZSSS",
+          "047,944,067",
+          "02",
+          "12.8%"
+        ],
+        [
+          "46.",
+          "Kunming Changshui International Airport",
+          "Kunming, Yunnan",
+          "China",
+          "KMG/ZPPP",
+          "047,178,347",
+          "02",
+          "12.2%"
+        ],
+        [
+          "47.",
+          "Xi'an Xianyang International Airport",
+          "Xi'an, Shaanxi",
+          "China",
+          "XIY/ZLXY",
+          "047,030,407",
+          "02",
+          "13.7%"
+        ],
+        [
+          "48.",
+          "Toronto Pearson International Airport",
+          "Mississauga, Ontario",
+          "Canada",
+          "YYZ/CYYZ",
+          "046,800,000",
+          "08",
+          "04.4%"
+        ],
+        [
+          "49.",
+          "El Dorado International Airport",
+          "Bogotá",
+          "Colombia",
+          "BOG/SKBO",
+          "045,802,360",
+          "",
+          "16.0%"
+        ],
+        [
+          "50.",
+          "Mexico City International Airport",
+          "Venustiano Carranza, Mexico City",
+          "Mexico",
+          "MEX/MMMX",
+          "045,359,500",
+          "16",
+          "06.2%"
+        ]
+      ],
+      "surrounding_text": "As of 2024, the United States has the most airports in the top 50 list, with 15 (16 in 2023), following by China having 12 (10 in 2023), while India and Spain have two. In terms of regions, North America has 17 airports in the top 50 (18 in 2023), followed by East Asia with 14 (12 in 2023), Europe with 8 (same as in 2023), Southeast Asia with 5 (6 in 2023), West Asia with three (same as 2023), South Asia with two (same as 2023), and South America with one (same as 2023). Source: 2023 report from the Port Authority of New York and New Jersey",
+      "page_title": "List of busiest airports by passenger traffic",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic",
+      "table_index": 1,
+      "total_rows": 50
+    },
+    {
+      "caption": "",
+      "section_heading": "2023 statistics",
+      "column_headers": [
+        "Rank",
+        "Airport",
+        "Location",
+        "Country",
+        "Code(IATA/ICAO)",
+        "Totalpassengers",
+        "Rankchange",
+        "%change"
+      ],
+      "rows": [
+        [
+          "1.",
+          "Hartsfield–Jackson Atlanta International Airport",
+          "Atlanta, Georgia",
+          "United States",
+          "ATL/KATL",
+          "104,653,451",
+          "",
+          "11.7%"
+        ],
+        [
+          "2.",
+          "Dubai International Airport",
+          "Garhoud, Dubai, Dubai",
+          "United Arab Emirates",
+          "DXB/OMDB",
+          "86,994,365",
+          "3",
+          "31.7%"
+        ],
+        [
+          "3.",
+          "Dallas Fort Worth International Airport",
+          "Dallas–Fort Worth, Texas",
+          "United States",
+          "DFW/KDFW",
+          "81,755,538",
+          "1",
+          "11.4%"
+        ],
+        [
+          "4.",
+          "Heathrow Airport",
+          "Hillingdon, London",
+          "United Kingdom",
+          "LHR/EGLL",
+          "79,183,364",
+          "4",
+          "28.5%"
+        ],
+        [
+          "5.",
+          "Tokyo Haneda Airport",
+          "Ōta, Tokyo",
+          "Japan",
+          "HND/RJTT",
+          "78,719,302",
+          "11",
+          "55.1%"
+        ],
+        [
+          "6.",
+          "Denver International Airport",
+          "Denver, Colorado",
+          "United States",
+          "DEN/KDEN",
+          "77,837,917",
+          "3",
+          "12.3%"
+        ],
+        [
+          "7.",
+          "Istanbul Airport",
+          "Arnavutköy, Istanbul",
+          "Turkey",
+          "IST/LTFM",
+          "76,027,321",
+          "",
+          "18.3%"
+        ],
+        [
+          "8.",
+          "Los Angeles International Airport",
+          "Los Angeles, California",
+          "United States",
+          "LAX/KLAX",
+          "75,050,875",
+          "2",
+          "13.8%"
+        ],
+        [
+          "9.",
+          "O'Hare International Airport",
+          "Chicago, Illinois",
+          "United States",
+          "ORD/KORD",
+          "73,894,226",
+          "5",
+          "8.1%"
+        ],
+        [
+          "10.",
+          "Indira Gandhi International Airport",
+          "Palam, Delhi",
+          "India",
+          "DEL/VIDP",
+          "72,214,841",
+          "1",
+          "21.4%"
+        ],
+        [
+          "11.",
+          "Charles de Gaulle Airport",
+          "Roissy-en-France, Île-de-France",
+          "France",
+          "CDG/LFPG",
+          "67,421,316",
+          "1",
+          "17.3%"
+        ],
+        [
+          "12.",
+          "Guangzhou Baiyun International Airport",
+          "Baiyun-Huadu, Guangzhou, Guangdong",
+          "China",
+          "CAN/ZGGG",
+          "63,169,169",
+          "",
+          "142.0%"
+        ],
+        [
+          "13.",
+          "John F. Kennedy International Airport",
+          "Queens, New York, New York",
+          "United States",
+          "JFK/KJFK",
+          "62,464,331",
+          "2",
+          "13.0%"
+        ],
+        [
+          "14.",
+          "Amsterdam Airport Schiphol",
+          "Haarlemmermeer, North Holland",
+          "Netherlands",
+          "AMS/EHAM",
+          "61,889,586",
+          "1",
+          "18.0%"
+        ],
+        [
+          "15.",
+          "Adolfo Suárez Madrid–Barajas Airport",
+          "Madrid",
+          "Spain",
+          "MAD/LEMD",
+          "60,181,604",
+          "",
+          "18.9%"
+        ],
+        [
+          "16.",
+          "Frankfurt Airport",
+          "Frankfurt, Hesse",
+          "Germany",
+          "FRA/EDDF",
+          "59,355,389",
+          "2",
+          "21.3%"
+        ],
+        [
+          "17.",
+          "Singapore Changi Airport",
+          "Changi, East Region",
+          "Singapore",
+          "SIN/WSSS",
+          "58,946,000",
+          "19",
+          "83.1%"
+        ],
+        [
+          "18.",
+          "Orlando International Airport",
+          "Orlando, Florida",
+          "United States",
+          "MCO/KMCO",
+          "57,735,726",
+          "1",
+          "15.1%"
+        ],
+        [
+          "19.",
+          "Harry Reid International Airport",
+          "Las Vegas, Nevada",
+          "United States",
+          "LAS/KLAS",
+          "57,666,456",
+          "7",
+          "9.4%"
+        ],
+        [
+          "20.",
+          "Seoul Incheon International Airport",
+          "Incheon",
+          "South Korea",
+          "ICN/RKSI",
+          "56,235,412",
+          "",
+          "213.8%"
+        ],
+        [
+          "21.",
+          "Shanghai Pudong International Airport",
+          "Pudong, Shanghai",
+          "China",
+          "PVG/ZSPD",
+          "54,476,397",
+          "",
+          "284.2%"
+        ],
+        [
+          "22.",
+          "Charlotte Douglas International Airport",
+          "Charlotte, North Carolina",
+          "United States",
+          "CLT/KCLT",
+          "53,445,770",
+          "3",
+          "11.9%"
+        ],
+        [
+          "23.",
+          "Beijing Capital International Airport",
+          "Chaoyang-Shunyi, Beijing",
+          "China",
+          "PEK/ZBAA",
+          "52,879,156",
+          "",
+          "316.2%"
+        ],
+        [
+          "24.",
+          "Shenzhen Bao'an International Airport",
+          "Bao'an, Shenzhen, Guangdong",
+          "China",
+          "SZX/ZGSZ",
+          "52,734,934",
+          "",
+          "144.6%"
+        ],
+        [
+          "25.",
+          "Miami International Airport",
+          "Miami-Dade County, Florida",
+          "United States",
+          "MIA/KMIA",
+          "52,340,934",
+          "11",
+          "3.3%"
+        ],
+        [
+          "26.",
+          "Suvarnabhumi Airport",
+          "Bang Phli, Samut Prakan",
+          "Thailand",
+          "BKK/VTBS",
+          "51,699,104",
+          "24",
+          "79.8%"
+        ],
+        [
+          "27.",
+          "Chhatrapati Shivaji Maharaj International Airport",
+          "Santacruz-Sahar, Mumbai, Maharashtra",
+          "India",
+          "BOM/VABB",
+          "51,589,040",
+          "1",
+          "34.6%"
+        ],
+        [
+          "28.",
+          "Seattle–Tacoma International Airport",
+          "SeaTac, Washington",
+          "United States",
+          "SEA/KSEA",
+          "50,877,260",
+          "7",
+          "10.7%"
+        ],
+        [
+          "29.",
+          "San Francisco International Airport",
+          "San Mateo County, California",
+          "United States",
+          "SFO/KSFO",
+          "50,196,094",
+          "5",
+          "18.7%"
+        ],
+        [
+          "30.",
+          "Josep Tarradellas Barcelona–El Prat Airport",
+          "Barcelona",
+          "Spain",
+          "BCN/LEBL",
+          "49,883,928",
+          "5",
+          "19.9%"
+        ],
+        [
+          "31.",
+          "Newark Liberty International Airport",
+          "Newark, New Jersey",
+          "United States",
+          "EWR/KEWR",
+          "49,084,774",
+          "8",
+          "12.7%"
+        ],
+        [
+          "32.",
+          "Soekarno–Hatta International Airport",
+          "Tangerang, Banten",
+          "Indonesia",
+          "CGK/WIII",
+          "49,080,532",
+          "5",
+          "23.9%"
+        ],
+        [
+          "33.",
+          "Phoenix Sky Harbor International Airport",
+          "Phoenix, Arizona",
+          "United States",
+          "PHX/KPHX",
+          "48,654,432",
+          "11",
+          "9.6%"
+        ],
+        [
+          "34.",
+          "Mexico City International Airport",
+          "Venustiano Carranza, Mexico City",
+          "Mexico",
+          "MEX/MMMX",
+          "48,416,008",
+          "14",
+          "4.7%"
+        ],
+        [
+          "35.",
+          "Kuala Lumpur International Airport",
+          "Sepang, Selangor",
+          "Malaysia",
+          "KUL/WMKK",
+          "47,242,468",
+          "",
+          "86.0%"
+        ],
+        [
+          "36.",
+          "George Bush Intercontinental Airport",
+          "Houston, Texas",
+          "United States",
+          "IAH/KIAH",
+          "46,168,662",
+          "10",
+          "12.7%"
+        ],
+        [
+          "37.",
+          "Hamad International Airport",
+          "Doha",
+          "Qatar",
+          "DOH/OTHH",
+          "45,916,098",
+          "6",
+          "28.5%"
+        ],
+        [
+          "38.",
+          "Ninoy Aquino International Airport",
+          "Pasay/Parañaque, Metro Manila",
+          "Philippines",
+          "MNL/RPLL",
+          "45,300,322",
+          "6",
+          "46.7%"
+        ],
+        [
+          "39.",
+          "Chengdu Tianfu International Airport",
+          "Jianyang, Chengdu, Sichuan",
+          "China",
+          "TFU/ZUTF",
+          "44,786,032",
+          "",
+          "237.4%"
+        ],
+        [
+          "40.",
+          "Toronto Pearson International Airport",
+          "Mississauga, Ontario",
+          "Canada",
+          "YYZ/CYYZ",
+          "44,761,805",
+          "11",
+          "23.1%"
+        ],
+        [
+          "41.",
+          "Chongqing Jiangbei International Airport",
+          "Chongqing",
+          "China",
+          "CKG/ZUCK",
+          "44,657,268",
+          "",
+          "106.1%"
+        ],
+        [
+          "42.",
+          "King Abdulaziz International Airport",
+          "Jeddah",
+          "Saudi Arabia",
+          "JED/OEJN",
+          "42,910,407",
+          "4",
+          "35.7%"
+        ],
+        [
+          "43.",
+          "Shanghai Hongqiao International Airport",
+          "Shanghai",
+          "China",
+          "SHA/ZSSS",
+          "42,492,745",
+          "",
+          "188.8%"
+        ],
+        [
+          "44.",
+          "Kunming Changshui International Airport",
+          "Kunming, Yunnan",
+          "China",
+          "KMG/ZPPP",
+          "42,053,214",
+          "",
+          "97.4%"
+        ],
+        [
+          "45.",
+          "Xi'an Xianyang International Airport",
+          "Xi'an, Shaanxi",
+          "China",
+          "XIY/ZLXY",
+          "41,371,228",
+          "",
+          "205.1%"
+        ],
+        [
+          "46.",
+          "São Paulo/Guarulhos International Airport",
+          "São Paulo",
+          "Brazil",
+          "GRU/SBGR",
+          "41,307,919",
+          "",
+          "19.8%"
+        ],
+        [
+          "47.",
+          "Hangzhou Xiaoshan International Airport",
+          "Hangzhou, Zhejiang",
+          "China",
+          "HGH/ZSHC",
+          "41,170,470",
+          "",
+          "105.5%"
+        ],
+        [
+          "48.",
+          "Gatwick Airport",
+          "Crawley, West Sussex",
+          "United Kingdom",
+          "LGW/EGKK",
+          "40,905,856",
+          "13",
+          "24.5%"
+        ],
+        [
+          "49.",
+          "Logan International Airport",
+          "Boston, Massachusetts",
+          "United States",
+          "BOS/KBOS",
+          "40,861,658",
+          "19",
+          "13.2%"
+        ],
+        [
+          "50.",
+          "Tan Son Nhat International Airport",
+          "Tan Binh, Ho Chi Minh City",
+          "Vietnam",
+          "SGN/VVTS",
+          "40,738,295",
+          "16",
+          "18.9%"
+        ]
+      ],
+      "surrounding_text": "Source: 2023 report from the Port Authority of New York and New Jersey Source: 2022 report from the Port Authority of New York and New Jersey",
+      "page_title": "List of busiest airports by passenger traffic",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic",
+      "table_index": 2,
+      "total_rows": 50
+    },
+    {
+      "caption": "",
+      "section_heading": "2022 statistics",
+      "column_headers": [
+        "Rank",
+        "Airport",
+        "Location",
+        "Country",
+        "Code(IATA/ICAO)",
+        "Totalpassengers",
+        "Rankchange",
+        "%change"
+      ],
+      "rows": [
+        [
+          "1.",
+          "Hartsfield–Jackson Atlanta International Airport",
+          "Atlanta, Georgia",
+          "United States",
+          "ATL/KATL",
+          "93,699,630",
+          "",
+          "23.8%"
+        ],
+        [
+          "2.",
+          "Dallas Fort Worth International Airport",
+          "Dallas–Fort Worth, Texas",
+          "United States",
+          "DFW/KDFW",
+          "73,362,946",
+          "",
+          "17.5%"
+        ],
+        [
+          "3.",
+          "Denver International Airport",
+          "Denver, Colorado",
+          "United States",
+          "DEN/KDEN",
+          "69,286,461",
+          "",
+          "17.8%"
+        ],
+        [
+          "4.",
+          "O'Hare International Airport",
+          "Chicago, Illinois",
+          "United States",
+          "ORD/KORD",
+          "68,340,619",
+          "",
+          "26.5%"
+        ],
+        [
+          "5.",
+          "Dubai International Airport",
+          "Garhoud, Dubai, Dubai",
+          "United Arab Emirates",
+          "DXB/OMDB",
+          "66,069,981",
+          "23",
+          "127.0%"
+        ],
+        [
+          "6.",
+          "Los Angeles International Airport",
+          "Los Angeles, California",
+          "United States",
+          "LAX/KLAX",
+          "65,924,298",
+          "1",
+          "37.3%"
+        ],
+        [
+          "7.",
+          "Istanbul Airport",
+          "Arnavutköy, Istanbul",
+          "Turkey",
+          "IST/LTFM",
+          "64,289,107",
+          "7",
+          "73.8%"
+        ],
+        [
+          "8.",
+          "Heathrow Airport",
+          "Hillingdon, London",
+          "United Kingdom",
+          "LHR/EGLL",
+          "61,614,508",
+          "46",
+          "217.7%"
+        ],
+        [
+          "9.",
+          "Indira Gandhi International Airport",
+          "Palam, Delhi",
+          "India",
+          "DEL/VIDP",
+          "59,490,074",
+          "4",
+          "60.2%"
+        ],
+        [
+          "10.",
+          "Charles de Gaulle Airport",
+          "Roissy-en-France, Île-de-France",
+          "France",
+          "CDG/LFPG",
+          "57,474,033",
+          "22",
+          "119.4%"
+        ],
+        [
+          "11.",
+          "John F. Kennedy International Airport",
+          "Queens, New York, New York",
+          "United States",
+          "JFK/KJFK",
+          "55,287,693",
+          "15",
+          "79.6%"
+        ],
+        [
+          "12.",
+          "Harry Reid International Airport",
+          "Las Vegas, Nevada",
+          "United States",
+          "LAS/KLAS",
+          "52,694,312",
+          "2",
+          "32.6%"
+        ],
+        [
+          "13.",
+          "Amsterdam Airport Schiphol",
+          "Haarlemmermeer, North Holland",
+          "Netherlands",
+          "AMS/EHAM",
+          "52,472,188",
+          "22",
+          "105.8%"
+        ],
+        [
+          "14.",
+          "Miami International Airport",
+          "Miami-Dade County, Florida",
+          "United States",
+          "MIA/KMIA",
+          "50,684,396",
+          "2",
+          "35.9%"
+        ],
+        [
+          "15.",
+          "Adolfo Suárez Madrid–Barajas Airport",
+          "Madrid",
+          "Spain",
+          "MAD/LEMD",
+          "50,602,864",
+          "28",
+          "109.8%"
+        ],
+        [
+          "16.",
+          "Tokyo Haneda Airport",
+          "Ōta, Tokyo",
+          "Japan",
+          "HND/RJTT",
+          "50,290,705",
+          "17",
+          "92.5%"
+        ],
+        [
+          "17.",
+          "Orlando International Airport",
+          "Orlando, Florida",
+          "United States",
+          "MCO/KMCO",
+          "50,176,103",
+          "10",
+          "24.2%"
+        ],
+        [
+          "18.",
+          "Frankfurt Airport",
+          "Frankfurt, Hesse",
+          "Germany",
+          "FRA/EDDF",
+          "48,918,482",
+          "21",
+          "97.2%"
+        ],
+        [
+          "19.",
+          "Charlotte Douglas International Airport",
+          "Charlotte, North Carolina",
+          "United States",
+          "CLT/KCLT",
+          "47,758,605",
+          "13",
+          "10.3%"
+        ],
+        [
+          "20.",
+          "Mexico City International Airport",
+          "Venustiano Carranza, Mexico City",
+          "Mexico",
+          "MEX/MMMX",
+          "46,261,729",
+          "3",
+          "28.3%"
+        ],
+        [
+          "21.",
+          "Seattle–Tacoma International Airport",
+          "SeaTac, Washington",
+          "United States",
+          "SEA/KSEA",
+          "45,964,321",
+          "5",
+          "27.1%"
+        ],
+        [
+          "22.",
+          "Phoenix Sky Harbor International Airport",
+          "Phoenix, Arizona",
+          "United States",
+          "PHX/KPHX",
+          "44,397,854",
+          "11",
+          "14.3%"
+        ],
+        [
+          "23.",
+          "Newark Liberty International Airport",
+          "Newark, New Jersey",
+          "United States",
+          "EWR/KEWR",
+          "43,565,254",
+          "6",
+          "50.0%"
+        ],
+        [
+          "24.",
+          "San Francisco International Airport",
+          "San Mateo County, California",
+          "United States",
+          "SFO/KSFO",
+          "42,210,201",
+          "16",
+          "73.5%"
+        ],
+        [
+          "25.",
+          "Josep Tarradellas Barcelona–El Prat Airport",
+          "Barcelona",
+          "Spain",
+          "BCN/LEBL",
+          "41,616,302",
+          "33",
+          "120.6%"
+        ],
+        [
+          "26.",
+          "George Bush Intercontinental Airport",
+          "Houston, Texas",
+          "United States",
+          "IAH/KIAH",
+          "40,974,831",
+          "3",
+          "21.7%"
+        ],
+        [
+          "27.",
+          "Soekarno–Hatta International Airport",
+          "Tangerang, Banten",
+          "Indonesia",
+          "CGK/WIII",
+          "38,791,168",
+          "",
+          "113.3%"
+        ],
+        [
+          "28.",
+          "Chhatrapati Shivaji Maharaj International Airport",
+          "Santacruz-Sahar, Mumbai, Maharashtra",
+          "India",
+          "BOM/VABB",
+          "38,332,106",
+          "23",
+          "93.7%"
+        ],
+        [
+          "29.",
+          "Toronto Pearson International Airport",
+          "Mississauga, Ontario",
+          "Canada",
+          "YYZ/CYYZ",
+          "36,356,109",
+          "",
+          "186.4%"
+        ],
+        [
+          "30.",
+          "Logan International Airport",
+          "East Boston, Boston, Massachusetts",
+          "United States",
+          "BOS/KBOS",
+          "36,112,473",
+          "14",
+          "59.1%"
+        ],
+        [
+          "31.",
+          "Hamad International Airport",
+          "Doha",
+          "Qatar",
+          "DOH/OTHH",
+          "35,730,482",
+          "",
+          "101.8%"
+        ],
+        [
+          "32.",
+          "El Dorado International Airport",
+          "Bogotá",
+          "Colombia",
+          "BOG/SKBO",
+          "35,362,529",
+          "20",
+          "60.1%"
+        ],
+        [
+          "33.",
+          "São Paulo/Guarulhos International Airport",
+          "Guarulhos",
+          "Brazil",
+          "GRU/SBGR",
+          "34,466,946",
+          "8",
+          "42.6%"
+        ],
+        [
+          "34.",
+          "Tan Son Nhat International Airport",
+          "Tan Binh, Ho Chi Minh City",
+          "Vietnam",
+          "SGN/VVTS",
+          "34,278,320",
+          "",
+          "233.2%"
+        ],
+        [
+          "35.",
+          "London Gatwick Airport",
+          "Crawley, West Sussex",
+          "United Kingdom",
+          "LGW/EGKK",
+          "32,848,088",
+          "",
+          "424.7%"
+        ],
+        [
+          "36.",
+          "Singapore Changi Airport",
+          "Changi, East Region",
+          "Singapore",
+          "SIN/WSSS",
+          "32,202,000",
+          "",
+          "954.8%"
+        ],
+        [
+          "37.",
+          "Fort Lauderdale–Hollywood International Airport",
+          "Broward County, Florida",
+          "United States",
+          "FLL/KFLL",
+          "31,686,404",
+          "7",
+          "12.9%"
+        ],
+        [
+          "38.",
+          "King Abdulaziz International Airport",
+          "Jeddah",
+          "Saudi Arabia",
+          "JED/OEJN",
+          "31,648,324",
+          "",
+          "134.6%"
+        ],
+        [
+          "39.",
+          "Munich Airport",
+          "Freising, Bavaria",
+          "Germany",
+          "MUC/EDDM",
+          "31,642,738",
+          "",
+          "153.2%"
+        ],
+        [
+          "40.",
+          "Antalya Airport",
+          "Antalya",
+          "Turkey",
+          "AYT/LTAI",
+          "31,228,377",
+          "8",
+          "41.7%"
+        ],
+        [
+          "41.",
+          "Istanbul Sabiha Gökçen International Airport",
+          "Pendik, Istanbul",
+          "Turkey",
+          "SAW/LTFJ",
+          "30,780,357",
+          "4",
+          "23.2%"
+        ],
+        [
+          "42.",
+          "Minneapolis/St Paul International Airport",
+          "St. Paul, Minnesota",
+          "United States",
+          "MSP/KMSP",
+          "30,622,784",
+          "3",
+          "25.4%"
+        ],
+        [
+          "43.",
+          "Cancún International Airport",
+          "Cancún",
+          "Mexico",
+          "CUN/MMUN",
+          "30,484,094",
+          "3",
+          "36.1%"
+        ],
+        [
+          "44.",
+          "Ninoy Aquino International Airport",
+          "Pasay/Parañaque, Metro Manila",
+          "Philippines",
+          "MNL/RPLL",
+          "30,329,426",
+          "",
+          "287.8%"
+        ],
+        [
+          "45.",
+          "Jeju International Airport",
+          "Jeju City",
+          "South Korea",
+          "CJU/RKPC",
+          "29,703,669",
+          "12",
+          "15.1%"
+        ],
+        [
+          "46.",
+          "Rome–Fiumicino International Airport \"Leonardo da Vinci\"",
+          "Fiumicino, Rome metro",
+          "Italy",
+          "FCO/LIRF",
+          "29,346,365",
+          "",
+          "151.8%"
+        ],
+        [
+          "47.",
+          "Orly Airport",
+          "Orly, Paris metro",
+          "France",
+          "ORY/LFPO",
+          "29,187,269",
+          "",
+          "85.6%"
+        ],
+        [
+          "48.",
+          "Sydney Kingsford Smith Airport",
+          "Mascot, New South Wales",
+          "Australia",
+          "SYD/YSSY",
+          "29,094,483",
+          "",
+          "265.8%"
+        ],
+        [
+          "49.",
+          "LaGuardia Airport",
+          "Queens, New York, New York",
+          "United States",
+          "LGA/KLGA",
+          "28,997,592",
+          "",
+          "85.9%"
+        ],
+        [
+          "50.",
+          "Suvarnabhumi Airport",
+          "Bang Phli, Samut Prakan",
+          "Thailand",
+          "BKK/VTBS",
+          "28,754,314",
+          "",
+          "407.6%"
+        ]
+      ],
+      "surrounding_text": "Source: 2022 report from the Port Authority of New York and New Jersey Source: 2021 report from the Port Authority of New York and New Jersey",
+      "page_title": "List of busiest airports by passenger traffic",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic",
+      "table_index": 3,
+      "total_rows": 50
+    },
+    {
+      "caption": "",
+      "section_heading": "2021 statistics",
+      "column_headers": [
+        "Rank",
+        "Airport",
+        "Location",
+        "Country",
+        "Code(IATA/ICAO)",
+        "Totalpassengers",
+        "Rankchange",
+        "%change"
+      ],
+      "rows": [
+        [
+          "1.",
+          "Hartsfield–Jackson Atlanta International Airport",
+          "Atlanta, Georgia",
+          "United States",
+          "ATL/KATL",
+          "75,704,760",
+          "1",
+          "76.4%"
+        ],
+        [
+          "2.",
+          "Dallas Fort Worth International Airport",
+          "Dallas-Fort Worth, Texas",
+          "United States",
+          "DFW/KDFW",
+          "62,465,756",
+          "2",
+          "58.7%"
+        ],
+        [
+          "3.",
+          "Denver International Airport",
+          "Denver, Colorado",
+          "United States",
+          "DEN/KDEN",
+          "58,828,552",
+          "5",
+          "74.4%"
+        ],
+        [
+          "4.",
+          "O'Hare International Airport",
+          "Chicago, Illinois",
+          "United States",
+          "ORD/KORD",
+          "54,020,399",
+          "9",
+          "75.1%"
+        ],
+        [
+          "5.",
+          "Los Angeles International Airport",
+          "Los Angeles, California",
+          "United States",
+          "LAX/KLAX",
+          "48,007,284",
+          "10",
+          "66.8%"
+        ],
+        [
+          "6.",
+          "Charlotte Douglas International Airport",
+          "Charlotte, North Carolina",
+          "United States",
+          "CLT/KCLT",
+          "43,302,230",
+          "12",
+          "59.2%"
+        ],
+        [
+          "7.",
+          "Orlando International Airport",
+          "Orlando, Florida",
+          "United States",
+          "MCO/KMCO",
+          "40,351,068",
+          "20",
+          "86.7%"
+        ],
+        [
+          "8.",
+          "Guangzhou Baiyun International Airport",
+          "Baiyun-Huadu, Guangzhou, Guangdong",
+          "China",
+          "CAN/ZGGG",
+          "40,249,679",
+          "7",
+          "8.0%"
+        ],
+        [
+          "9.",
+          "Chengdu Shuangliu International Airport",
+          "Shuangliu-Wuhou, Chengdu, Sichuan",
+          "China",
+          "CTU/ZUUU",
+          "40,117,496",
+          "6",
+          "1.5%"
+        ],
+        [
+          "10.",
+          "Harry Reid International Airport",
+          "Las Vegas, Nevada",
+          "United States",
+          "LAS/KLAS",
+          "39,710,493",
+          "12",
+          "78.6%"
+        ],
+        [
+          "11.",
+          "Phoenix Sky Harbor International Airport",
+          "Phoenix, Arizona",
+          "United States",
+          "PHX/KPHX",
+          "38,846,713",
+          "15",
+          "77.2%"
+        ],
+        [
+          "12.",
+          "Miami International Airport",
+          "Miami-Dade County, Florida",
+          "United States",
+          "MIA/KMIA",
+          "37,302,456",
+          "26",
+          "99.9%"
+        ],
+        [
+          "13.",
+          "Indira Gandhi International Airport",
+          "Delhi",
+          "India",
+          "DEL/VIDP",
+          "37,139,957",
+          "3",
+          "30.3%"
+        ],
+        [
+          "14.",
+          "Istanbul Airport",
+          "Arnavutköy, Istanbul",
+          "Turkey",
+          "IST/LTFM",
+          "36,988,563",
+          "6",
+          "58.5%"
+        ],
+        [
+          "15.",
+          "Shenzhen Bao'an International Airport",
+          "Bao'an, Shenzhen, Guangdong",
+          "China",
+          "SZX/ZGSZ",
+          "36,358,185",
+          "10",
+          "4.1%"
+        ],
+        [
+          "16.",
+          "Seattle–Tacoma International Airport",
+          "SeaTac, Washington",
+          "United States",
+          "SEA/KSEA",
+          "36,154,015",
+          "16",
+          "80.4%"
+        ],
+        [
+          "17.",
+          "Mexico City International Airport",
+          "Venustiano Carranza, Mexico City",
+          "Mexico",
+          "MEX/MMMX",
+          "36,056,614",
+          "8",
+          "64.0%"
+        ],
+        [
+          "18.",
+          "Chongqing Jiangbei International Airport",
+          "Yubei, Chongqing",
+          "China",
+          "CKG/ZUCK",
+          "35,766,284",
+          "12",
+          "2.4%"
+        ],
+        [
+          "19.",
+          "Shanghai Hongqiao International Airport",
+          "Changning-Minhang, Shanghai",
+          "China",
+          "SHA/ZSSS",
+          "33,207,337",
+          "9",
+          "6.6%"
+        ],
+        [
+          "20.",
+          "Beijing Capital International Airport",
+          "Chaoyang-Shunyi, Beijing",
+          "China",
+          "PEK/ZBAA",
+          "32,639,013",
+          "13",
+          "5.4%"
+        ],
+        [
+          "21.",
+          "Kunming Changshui International Airport",
+          "Guandu, Kunming, Yunnan",
+          "China",
+          "KMG/ZPPP",
+          "32,221,195",
+          "12",
+          "2.3%"
+        ],
+        [
+          "22.",
+          "Shanghai Pudong International Airport",
+          "Pudong, Shanghai",
+          "China",
+          "PVG/ZSPD",
+          "32,206,814",
+          "8",
+          "5.7%"
+        ],
+        [
+          "23.",
+          "George Bush Intercontinental Airport",
+          "Houston, Texas",
+          "United States",
+          "IAH/KIAH",
+          "31,866,308",
+          "16",
+          "75.0%"
+        ],
+        [
+          "24.",
+          "Soekarno–Hatta International Airport",
+          "Tangerang, Banten",
+          "Indonesia",
+          "CGK/WIII",
+          "31,000,000",
+          "11",
+          "60.4%"
+        ],
+        [
+          "25.",
+          "Sheremetyevo International Airport",
+          "Khimki, Moscow Oblast",
+          "Russia",
+          "SVO/UUEE",
+          "30,943,456",
+          "9",
+          "56.4%"
+        ],
+        [
+          "26.",
+          "John F. Kennedy International Airport",
+          "Queens, New York, New York",
+          "United States",
+          "JFK/KJFK",
+          "30,788,322",
+          "19",
+          "85.1%"
+        ],
+        [
+          "27.",
+          "Xi'an Xianyang International Airport",
+          "Weicheng, Xianyang, Shaanxi",
+          "China",
+          "XIY/ZLXY",
+          "30,173,312",
+          "16",
+          "2.9%"
+        ],
+        [
+          "28.",
+          "Dubai International Airport",
+          "Garhoud, Dubai",
+          "United Arab Emirates",
+          "DXB/OMDB",
+          "29,110,609",
+          "9",
+          "12.7%"
+        ],
+        [
+          "29.",
+          "Newark Liberty International Airport",
+          "Newark, New Jersey",
+          "United States",
+          "EWR/KEWR",
+          "29,049,552",
+          "25",
+          "82.8%"
+        ],
+        [
+          "30.",
+          "Hangzhou Xiaoshan International Airport",
+          "Xiaoshan, Hangzhou, Zhejiang",
+          "China",
+          "HGH/ZSHC",
+          "28,163,820",
+          "13",
+          "0.2%"
+        ],
+        [
+          "31.",
+          "Fort Lauderdale–Hollywood International Airport",
+          "Broward County, Florida",
+          "United States",
+          "FLL/KFLL",
+          "28,076,808",
+          "17",
+          "70.3%"
+        ],
+        [
+          "32.",
+          "Charles de Gaulle Airport",
+          "Roissy-en-France, Île-de-France",
+          "France",
+          "CDG/LFPG",
+          "26,201,698",
+          "11",
+          "17.7%"
+        ],
+        [
+          "33.",
+          "Tokyo Haneda Airport",
+          "Ōta, Tokyo",
+          "Japan",
+          "HND/RJTT",
+          "25,876,429",
+          "21",
+          "15.4%"
+        ],
+        [
+          "34.",
+          "Jeju International Airport",
+          "Jeju City, Jeju Province",
+          "South Korea",
+          "CJU/RKPC",
+          "25,802,550",
+          "5",
+          "22.6%"
+        ],
+        [
+          "35.",
+          "Amsterdam Airport Schiphol",
+          "Haarlemmermeer, North Holland",
+          "Netherlands",
+          "AMS/EHAM",
+          "25,500,000",
+          "5",
+          "22.1%"
+        ],
+        [
+          "36.",
+          "Moscow Domodedovo Airport",
+          "Domodedovo, Moscow Oblast",
+          "Russia",
+          "DME/UUDD",
+          "25,065,087",
+          "16",
+          "52.9%"
+        ],
+        [
+          "37.",
+          "Beijing Daxing International Airport",
+          "Daxing District, Beijing",
+          "China",
+          "PKX/ZBAD",
+          "25,051,012",
+          "16",
+          "55.7%"
+        ],
+        [
+          "38.",
+          "Istanbul Sabiha Gökçen International Airport",
+          "Pendik, Istanbul",
+          "Turkey",
+          "SAW/LTFJ",
+          "24,991,916",
+          "4",
+          "47.2%"
+        ],
+        [
+          "39.",
+          "Frankfurt Airport",
+          "Frankfurt, Hesse",
+          "Germany",
+          "FRA/EDDF",
+          "24,812,849",
+          "2",
+          "32.2%"
+        ],
+        [
+          "40.",
+          "Minneapolis/St Paul International Airport",
+          "St. Paul, Minnesota",
+          "United States",
+          "MSP/KMSP",
+          "24,429,003",
+          "17",
+          "64.4%"
+        ],
+        [
+          "41.",
+          "San Francisco International Airport",
+          "San Mateo County, California",
+          "United States",
+          "SFO/KSFO",
+          "24,343,627",
+          "9",
+          "48.2%"
+        ],
+        [
+          "42.",
+          "São Paulo/Guarulhos International Airport",
+          "Guarulhos",
+          "Brazil",
+          "GRU/SBGR",
+          "24,164,330",
+          "11",
+          "18.7%"
+        ],
+        [
+          "43.",
+          "Adolfo Suárez Madrid–Barajas Airport",
+          "Madrid",
+          "Spain",
+          "MAD/LEMD",
+          "24,121,535",
+          "2",
+          "41.1%"
+        ],
+        [
+          "44.",
+          "Detroit Metropolitan Airport",
+          "Romulus, Michigan",
+          "United States",
+          "DTW/KDTW",
+          "23,610,765",
+          "8",
+          "67.4%"
+        ],
+        [
+          "45.",
+          "Logan International Airport",
+          "East Boston, Massachusetts",
+          "United States",
+          "BOS/KBOS",
+          "22,695,835",
+          "",
+          "79.6%"
+        ],
+        [
+          "46.",
+          "Gimpo International Airport",
+          "Gangseo District, Seoul",
+          "South Korea",
+          "GMP/RKSS",
+          "22,525,417",
+          "6",
+          "29.1%"
+        ],
+        [
+          "47.",
+          "Cancún International Airport",
+          "Cancún",
+          "Mexico",
+          "CUN/MMUN",
+          "22,393,906",
+          "",
+          "82.1%"
+        ],
+        [
+          "48.",
+          "Salt Lake City International Airport",
+          "Salt Lake City, Utah",
+          "United States",
+          "SLC/KSLC",
+          "22,383,878",
+          "",
+          "78.2%"
+        ],
+        [
+          "49.",
+          "Antalya Airport",
+          "Antalya",
+          "Turkey",
+          "AYT/LTAI",
+          "22,012,298",
+          "",
+          "125.8%"
+        ],
+        [
+          "50.",
+          "Changsha Huanghua International Airport",
+          "Changsha",
+          "China",
+          "CSX/ZGHA",
+          "19,983,064",
+          "14",
+          "4.0%"
+        ]
+      ],
+      "surrounding_text": "Source: 2021 report from the Port Authority of New York and New Jersey Source: 2020 report from the Port Authority of New York and New Jersey",
+      "page_title": "List of busiest airports by passenger traffic",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic",
+      "table_index": 4,
+      "total_rows": 50
+    },
+    {
+      "caption": "",
+      "section_heading": "2020 statistics",
+      "column_headers": [
+        "Rank",
+        "Airport",
+        "Location",
+        "Country",
+        "Code(IATA/ICAO)",
+        "Totalpassengers",
+        "Rankchange",
+        "%change"
+      ],
+      "rows": [
+        [
+          "1.",
+          "Guangzhou Baiyun International Airport",
+          "Baiyun-Huadu, Guangzhou, Guangdong",
+          "China",
+          "CAN/ZGGG",
+          "43,767,558",
+          "10",
+          "40.4%"
+        ],
+        [
+          "2.",
+          "Hartsfield–Jackson Atlanta International Airport",
+          "Atlanta, Georgia",
+          "United States",
+          "ATL/KATL",
+          "42,918,685",
+          "1",
+          "61.2%"
+        ],
+        [
+          "3.",
+          "Chengdu Shuangliu International Airport",
+          "Shuangliu-Wuhou, Chengdu, Sichuan",
+          "China",
+          "CTU/ZUUU",
+          "40,741,509",
+          "21",
+          "27.1%"
+        ],
+        [
+          "4.",
+          "Dallas Fort Worth International Airport",
+          "Dallas-Fort Worth, Texas",
+          "United States",
+          "DFW/KDFW",
+          "39,364,990",
+          "6",
+          "47.6%"
+        ],
+        [
+          "5.",
+          "Shenzhen Bao'an International Airport",
+          "Bao'an, Shenzhen, Guangdong",
+          "China",
+          "SZX/ZGSZ",
+          "37,916,054",
+          "21",
+          "28.4%"
+        ],
+        [
+          "6.",
+          "Chongqing Jiangbei International Airport",
+          "Yubei, Chongqing",
+          "China",
+          "CKG/ZUCK",
+          "34,937,789",
+          "42",
+          "22.0%"
+        ],
+        [
+          "7.",
+          "Beijing Capital International Airport",
+          "Chaoyang-Shunyi, Beijing",
+          "China",
+          "PEK/ZBAA",
+          "34,513,827",
+          "5",
+          "65.5%"
+        ],
+        [
+          "8.",
+          "Denver International Airport",
+          "Denver, Colorado",
+          "United States",
+          "DEN/KDEN",
+          "33,741,129",
+          "8",
+          "51.1%"
+        ],
+        [
+          "9.",
+          "Kunming Changshui International Airport",
+          "Guandu, Kunming, Yunnan",
+          "China",
+          "KMG/ZPPP",
+          "32,990,805",
+          "28",
+          "31.4%"
+        ],
+        [
+          "10.",
+          "Shanghai Hongqiao International Airport",
+          "Changning-Minhang, Shanghai",
+          "China",
+          "SHA/ZSSS",
+          "31,165,641",
+          "36",
+          "31.7%"
+        ],
+        [
+          "11.",
+          "Xi'an Xianyang International Airport",
+          "Weicheng, Xianyang, Shaanxi",
+          "China",
+          "XIY/ZLXY",
+          "31,073,924",
+          "29",
+          "34.2%"
+        ],
+        [
+          "12.",
+          "Tokyo Haneda Airport",
+          "Ōta, Tokyo",
+          "Japan",
+          "HND/RJTT",
+          "31,055,210",
+          "7",
+          "63.7%"
+        ],
+        [
+          "13.",
+          "O'Hare International Airport",
+          "Chicago, Illinois",
+          "United States",
+          "ORD/KORD",
+          "30,860,251",
+          "7",
+          "63.5%"
+        ],
+        [
+          "14.",
+          "Shanghai Pudong International Airport",
+          "Pudong, Shanghai",
+          "China",
+          "PVG/ZSPD",
+          "30,476,531",
+          "6",
+          "60.0%"
+        ],
+        [
+          "15.",
+          "Los Angeles International Airport",
+          "Los Angeles, California",
+          "United States",
+          "LAX/KLAX",
+          "28,779,527",
+          "12",
+          "67.3%"
+        ],
+        [
+          "16.",
+          "Indira Gandhi International Airport",
+          "Delhi",
+          "India",
+          "DEL/VIDP",
+          "28,500,545",
+          "1",
+          "58.4%"
+        ],
+        [
+          "17.",
+          "Hangzhou Xiaoshan International Airport",
+          "Xiaoshan, Hangzhou, Zhejiang",
+          "China",
+          "HGH/ZSHC",
+          "28,224,342",
+          "39",
+          "30.6%"
+        ],
+        [
+          "18.",
+          "Charlotte Douglas International Airport",
+          "Charlotte, North Carolina",
+          "United States",
+          "CLT/KCLT",
+          "27,205,082",
+          "16",
+          "45.6%"
+        ],
+        [
+          "19.",
+          "Dubai International Airport",
+          "Garhoud, Dubai",
+          "United Arab Emirates",
+          "DXB/OMDB",
+          "25,836,771",
+          "15",
+          "70.1%"
+        ],
+        [
+          "20.",
+          "Istanbul Airport",
+          "Arnavutköy, Istanbul",
+          "Turkey",
+          "IST/LTFM",
+          "23,330,411",
+          "8",
+          "55.3%"
+        ],
+        [
+          "21.",
+          "Charles de Gaulle Airport",
+          "Roissy-en-France, Île-de-France",
+          "France",
+          "CDG/LFPG",
+          "22,257,469",
+          "12",
+          "70.8%"
+        ],
+        [
+          "22.",
+          "McCarran International Airport",
+          "Las Vegas, Nevada",
+          "United States",
+          "LAS/KLAS",
+          "22,255,395",
+          "8",
+          "57.0%"
+        ],
+        [
+          "23.",
+          "Heathrow Airport",
+          "Hillingdon, London",
+          "United Kingdom",
+          "LHR/EGLL",
+          "22,111,469",
+          "16",
+          "72.7%"
+        ],
+        [
+          "24.",
+          "Tan Son Nhat International Airport",
+          "Tan Binh, Ho Chi Minh City",
+          "Vietnam",
+          "SGN/VVTS",
+          "22,062,893",
+          "31",
+          "49.5%"
+        ],
+        [
+          "25.",
+          "Mexico City International Airport",
+          "Venustiano Carranza, Mexico City",
+          "Mexico",
+          "MEX/MMMX",
+          "21,981,711",
+          "8",
+          "56.3%"
+        ],
+        [
+          "26.",
+          "Phoenix Sky Harbor International Airport",
+          "Phoenix, Arizona",
+          "United States",
+          "PHX/KPHX",
+          "21,928,708",
+          "18",
+          "52.6%"
+        ],
+        [
+          "27.",
+          "Orlando International Airport",
+          "Orlando, Florida",
+          "United States",
+          "MCO/KMCO",
+          "21,617,803",
+          "5",
+          "57.3%"
+        ],
+        [
+          "28.",
+          "Zhengzhou Xinzheng International Airport",
+          "Xinzheng, Zhengzhou, Henan",
+          "China",
+          "CGO/ZHCC",
+          "21,406,709",
+          "",
+          "26.5%"
+        ],
+        [
+          "29.",
+          "Jeju International Airport",
+          "Jeju City, Jeju Province",
+          "South Korea",
+          "CJU/RKPC",
+          "21,054,854",
+          "",
+          "32.8%"
+        ],
+        [
+          "30.",
+          "Amsterdam Airport Schiphol",
+          "Haarlemmermeer, North Holland",
+          "Netherlands",
+          "AMS/EHAM",
+          "20,887,144",
+          "18",
+          "70.9%"
+        ],
+        [
+          "31.",
+          "São Paulo/Guarulhos International Airport",
+          "Guarulhos",
+          "Brazil",
+          "GRU/SBGR",
+          "20,359,547",
+          "21",
+          "52.9%"
+        ],
+        [
+          "32.",
+          "Seattle–Tacoma International Airport",
+          "SeaTac, Washington",
+          "United States",
+          "SEA/KSEA",
+          "20,061,507",
+          "3",
+          "61.3%"
+        ],
+        [
+          "33.",
+          "Nanjing Lukou International Airport",
+          "Jiangning District, Nanjing, Jiangsu",
+          "China",
+          "NKG/ZSNJ",
+          "19,906,576",
+          "",
+          "34.9%"
+        ],
+        [
+          "34.",
+          "Sheremetyevo International Airport",
+          "Khimki, Moscow Oblast",
+          "Russia",
+          "SVO/UUEE",
+          "19,783,957",
+          "1",
+          "60.4%"
+        ],
+        [
+          "35.",
+          "Soekarno–Hatta International Airport",
+          "Tangerang, Banten",
+          "Indonesia",
+          "CGK/WIII",
+          "19,332,468",
+          "10",
+          "64.5%"
+        ],
+        [
+          "36.",
+          "Changsha Huanghua International Airport",
+          "Huanghua, Changsha, Hunan",
+          "China",
+          "CSX/ZGHA",
+          "19,223,825",
+          "",
+          "28.6%"
+        ],
+        [
+          "37.",
+          "Frankfurt Airport",
+          "Frankfurt, Hesse",
+          "Germany",
+          "FRA/EDDF",
+          "18,768,601",
+          "22",
+          "73.4%"
+        ],
+        [
+          "38.",
+          "Miami International Airport",
+          "Miami-Dade County, Florida",
+          "United States",
+          "MIA/KMIA",
+          "18,663,858",
+          "7",
+          "59.4%"
+        ],
+        [
+          "39.",
+          "George Bush Intercontinental Airport",
+          "Houston, Texas",
+          "United States",
+          "IAH/KIAH",
+          "18,213,913",
+          "8",
+          "59.8%"
+        ],
+        [
+          "40.",
+          "Gimpo International Airport",
+          "Gangseo District, Seoul",
+          "South Korea",
+          "GMP/RKSS",
+          "17,446,239",
+          "",
+          "31.4%"
+        ],
+        [
+          "41.",
+          "Madrid Barajas Airport",
+          "Barajas, Madrid",
+          "Spain",
+          "MAD/LEMD",
+          "17,094,817",
+          "19",
+          "72.3%"
+        ],
+        [
+          "42.",
+          "Istanbul Sabiha Gökçen International Airport",
+          "Pendik, Istanbul",
+          "Turkey",
+          "SAW/LTFJ",
+          "16,982,456",
+          "",
+          "52.1%"
+        ],
+        [
+          "43.",
+          "Xiamen Gaoqi International Airport",
+          "Huli District, Xiamen, Fujian",
+          "China",
+          "XMN/ZSAM",
+          "16,710,197",
+          "",
+          "39.0%"
+        ],
+        [
+          "44.",
+          "Suvarnabhumi Airport",
+          "Bang Phli, Samut Prakan",
+          "Thailand",
+          "BKK/VTBS",
+          "16,706,235",
+          "25",
+          "74.5%"
+        ],
+        [
+          "45.",
+          "John F. Kennedy International Airport",
+          "Queens, New York, New York",
+          "United States",
+          "JFK/KJFK",
+          "16,630,642",
+          "25",
+          "73.4%"
+        ],
+        [
+          "46.",
+          "Guiyang Longdongbao International Airport",
+          "Nanming District, Guiyang, Guizhou",
+          "China",
+          "KWE/ZUGY",
+          "16,583,878",
+          "",
+          "24.3%"
+        ],
+        [
+          "47.",
+          "Haikou Meilan International Airport",
+          "Lingshan, Haikou, Hainan",
+          "China",
+          "HAK/ZJHK",
+          "16,490,216",
+          "",
+          "31.9%"
+        ],
+        [
+          "48.",
+          "Fort Lauderdale–Hollywood International Airport",
+          "Broward County, Florida",
+          "United States",
+          "FLL/KFLL",
+          "16,484,132",
+          "",
+          "55.1%"
+        ],
+        [
+          "49.",
+          "Noi Bai International Airport",
+          "Soc Son, Hanoi",
+          "Vietnam",
+          "HAN/VVNB",
+          "16,473,214",
+          "",
+          "43.8%"
+        ],
+        [
+          "50.",
+          "San Francisco International Airport",
+          "San Mateo County, California",
+          "United States",
+          "SFO/KSFO",
+          "16,427,801",
+          "",
+          "71.4%"
+        ]
+      ],
+      "surrounding_text": "Source: 2020 report from the Port Authority of New York and New Jersey",
+      "page_title": "List of busiest airports by passenger traffic",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic",
+      "table_index": 5,
+      "total_rows": 50
+    }
+  ],
+  "fetched_at": "2026-03-08 22:53:21",
+  "total_tables": 6
+}
